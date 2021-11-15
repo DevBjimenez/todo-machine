@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DevBjimenez/todo-machine/static/css/main.d921facb.chunk.css",
+    "main.js": "/DevBjimenez/todo-machine/static/js/main.8774c9f9.chunk.js",
+    "main.js.map": "/DevBjimenez/todo-machine/static/js/main.8774c9f9.chunk.js.map",
+    "runtime-main.js": "/DevBjimenez/todo-machine/static/js/runtime-main.b626a677.js",
+    "runtime-main.js.map": "/DevBjimenez/todo-machine/static/js/runtime-main.b626a677.js.map",
+    "static/js/2.5a0b7449.chunk.js": "/DevBjimenez/todo-machine/static/js/2.5a0b7449.chunk.js",
+    "static/js/2.5a0b7449.chunk.js.map": "/DevBjimenez/todo-machine/static/js/2.5a0b7449.chunk.js.map",
+    "static/js/3.565b7731.chunk.js": "/DevBjimenez/todo-machine/static/js/3.565b7731.chunk.js",
+    "static/js/3.565b7731.chunk.js.map": "/DevBjimenez/todo-machine/static/js/3.565b7731.chunk.js.map",
+    "index.html": "/DevBjimenez/todo-machine/index.html",
+    "static/css/main.d921facb.chunk.css.map": "/DevBjimenez/todo-machine/static/css/main.d921facb.chunk.css.map",
+    "static/js/2.5a0b7449.chunk.js.LICENSE.txt": "/DevBjimenez/todo-machine/static/js/2.5a0b7449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b626a677.js",
+    "static/js/2.5a0b7449.chunk.js",
+    "static/css/main.d921facb.chunk.css",
+    "static/js/main.8774c9f9.chunk.js"
+  ]
+}
